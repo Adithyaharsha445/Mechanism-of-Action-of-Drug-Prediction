@@ -7,7 +7,7 @@ Note that GPU is NOT compulsory to run this application.
 
 ### 1. Download this github repository. Open your command prompt and go to the proper directory 
 
-``` git  "https://github.com/Adithyaharsh445/drug-mechanism-of-action.git" ```
+``` git  "https://github.com/Adithyaharsh445/drugs-mechanism-of-action.git" ```
 
 ``` cd "drugs-mechanism-of-action/Flask" ```
 
