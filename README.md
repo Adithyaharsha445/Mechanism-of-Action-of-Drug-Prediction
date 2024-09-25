@@ -8,8 +8,8 @@ A web application using Flask framework. It uses Jinga templating engine.
   (You can refer: https://keras.io/getting_started/faq/#what-are-my-options-for-saving-models)
 
 For a detailed explaination, you can refer these two README files:
-- https://github.com/Adithyaharsh445/drug-mechanism-of-action/tree/master/Flask)
-- https://github.com/Adithyaharsh445/drug-mechanism-of-action/tree/master/Implementation)
+- https://github.com/Adithyaharsh445/drugs-mechanism-of-action/tree/master/Flask)
+- https://github.com/Adithyaharsh445/drugs-mechanism-of-action/tree/master/Implementation)
 
 # Sample output of the project:
 
