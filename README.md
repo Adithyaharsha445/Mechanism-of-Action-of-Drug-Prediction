@@ -9,7 +9,7 @@ A web application using Flask framework. It uses Jinga templating engine.
 
 For a detailed explaination, you can refer these two README files:
 - https://github.com/Adithyaharsh445/drug-mechanism-of-action/tree/master/Flask)
-- https://github.com/Puneethgr/mechanism-of-action/tree/master/Implementation#readme
+- https://github.com/Adithyaharsh445/drug-mechanism-of-action/tree/master/Implementation)
 
 # Sample output of the project:
 
