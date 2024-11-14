@@ -1,4 +1,4 @@
-# Drug Duscovery 
+# Drug Discovery 
 # Mechanism-of-action
 ## Prediction of Mechanism of Action of a drug
 
